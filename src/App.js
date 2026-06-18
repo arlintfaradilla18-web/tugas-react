@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div style={{ padding: '20px', fontFamily: 'Arial' }}>
-      <h1>Halo, aku Cardi! 👋</h1>
+      <h1>Halo, aku Arlint! 👋</h1>
       <p>Ini adalah website pribadiku.</p>
       
       <h2>Makanan Favoritku: Mie Ayam! 🍜</h2>
