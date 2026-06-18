@@ -13,7 +13,7 @@ function App() {
   <section className="card">
     <h2>Tentang Saya</h2>
     <p>
-      Halo, nama saya Arlint Faradilla Gesta, mahasiswa Teknik Informatika dari Universitas Muhammadiyah Purwokerto. 
+      Halo, nama saya Arlint Gesta Faradilla, mahasiswa Teknik Informatika dari Universitas Muhammadiyah Purwokerto. 
       Perjalanan saya di dunia IT dimulai tepat saat saya melangkahkan kaki di bangku perkuliahan. Awalnya, segala sesuatu tentang 
       pemrograman terasa sangat asing bagi saya, namun rasa ingin tahu yang besar membuat saya terus bertahan.
     </p>
@@ -53,7 +53,7 @@ function App() {
     </p>
     <p>
       Jika diberi kesempatan, saya sangat ingin mengunjungi <strong>Jepang</strong>, khususnya untuk mengunjungi 
-      <em>Taman Ghibli</em> dan <em>Museum Ghibli</em> agar bisa merasakan langsung suasana magis dari film-film kesukaan saya. 
+      <em>Ghibli Park</em> dan <em>Ghibli Museum</em> agar bisa merasakan langsung suasana magis dari film-film kesukaan saya. 
       Selain itu, <strong>Switzerland</strong> juga masuk dalam daftar teratas impian saya; saya hanya ingin menikmati 
       suasana tenang, pegunungan, dan keindahan alam yang menakjubkan di sana.
     </p>
@@ -66,7 +66,7 @@ function App() {
 </main>
 
       <footer className="footer">
-        <p>© 2026 Arlint Faradilla Gesta - PWA Project</p>
+        <p>© 2026 Arlint Gesta Faradilla - PWA Project</p>
       </footer>
     </div>
   );
